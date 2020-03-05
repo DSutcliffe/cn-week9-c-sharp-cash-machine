@@ -1,0 +1,10 @@
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.deps.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.runtimeconfig.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.runtimeconfig.dev.json
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/bin/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.pdb
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.csprojAssemblyReference.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.AssemblyInfoInputs.cache
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.AssemblyInfo.cs
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.dll
+/Users/codenation/Desktop/cnCourse/cn-week9-c-sharp-cash-machine/obj/Debug/netcoreapp3.1/cn-week9-c-sharp-cash-machine.pdb
